@@ -8,6 +8,10 @@ An 8-bit RPG through the end times. Walk with the angel Gabriel from Babel to Ba
 - Progress saves in your own browser.
 - On a phone, use "Add to Home Screen" to play full screen.
 
+## Study notes
+
+The full study companion lives at `/study/`. It is encrypted, and opens only with the password shared with the cell group.
+
 ## Source
 
 Based on Ps Daniel Foo's four-part End Times series, as summarised in the study companion "Until the Day Dawns". Lines marked ✦ are his own reading rather than a plain statement of Scripture. A study note in the game's Scroll menu sets out where other Christians read things differently.
